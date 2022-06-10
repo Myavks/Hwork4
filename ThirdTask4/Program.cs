@@ -1,6 +1,6 @@
 ﻿using System; 
 
-namespace ThirdTask4
+namespace FirstTask
 {
     class Program
     {

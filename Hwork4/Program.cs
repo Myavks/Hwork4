@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Hwork4
+namespace ThirdTask
 {
     class Program
     {
